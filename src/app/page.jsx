@@ -39,7 +39,7 @@ export default function Home() {
       target.current,
       {
         x: "50vw",
-        y: "-80vh",
+        y: "-75vh",
         rotate: -45, 
       },
       {
